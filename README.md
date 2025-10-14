@@ -1,8 +1,6 @@
-# Trabajo Práctico Final
-# Circuitos Lógicos Programables
-# ** Carrera de Especialización en Sistemas Embebidos**
+# Circuitos Lógicos Programables - **Carrera de Especialización en Sistemas Embebidos**
 
-## **Título:** Implementación de una ALU en VHDL
+## **Trabajo Práctico Final:** Implementación de una ALU en VHDL
 
 ### **Descripción general**
 
